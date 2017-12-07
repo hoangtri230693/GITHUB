@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe.config
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.pdb
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.xml
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.frmQlyMacbook.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Resources.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.exe
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.xml
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.pdb

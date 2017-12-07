@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe.config
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.exe
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.xml
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.pdb
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.pdb
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.xml
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Resources.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Thông_Tin_Khách_Hàng.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Home.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Chi_Tiet_Hoa_Don.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Cap_Nhat_San_Pham.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Thong_Tin_San_Pham.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Thong_Tin_Ung_Dung.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Tim_Kiem_Thong_Tin_Khach_Hang.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Cap_Nhat_Thong_Tin_Khach_Hang.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Dang_Nhap.resources
