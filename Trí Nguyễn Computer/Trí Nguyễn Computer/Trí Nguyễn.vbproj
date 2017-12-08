@@ -76,6 +76,7 @@
     <Compile Include="Chi Tiết Hóa Đơn.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="clsDataBaseAccess.vb" />
     <Compile Include="Cập Nhật Sản Phẩm.Designer.vb">
       <DependentUpon>Cập Nhật Sản Phẩm.vb</DependentUpon>
     </Compile>

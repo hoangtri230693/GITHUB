@@ -4,7 +4,7 @@
 
     End Sub
     Private Sub ThongTinKhachHangToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ThongTinKhachHangToolStripMenuItem.Click
-        Thông_Tin_Khách_Hàng.Show()
+        Thong_Tin_Khach_Hang.Show()
         Me.Hide()
     End Sub
     Private Sub TimKiemKhachHangToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TimKiemKhachHangToolStripMenuItem.Click

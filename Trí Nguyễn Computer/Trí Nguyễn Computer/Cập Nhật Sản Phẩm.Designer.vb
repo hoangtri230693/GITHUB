@@ -29,17 +29,17 @@ Partial Class Cap_Nhat_San_Pham
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
-        Me.Button4 = New System.Windows.Forms.Button()
-        Me.Button5 = New System.Windows.Forms.Button()
+        Me.TextBoxTenSanPham = New System.Windows.Forms.TextBox()
+        Me.TextBoxMaSanPham = New System.Windows.Forms.TextBox()
+        Me.TextBoxDonGia = New System.Windows.Forms.TextBox()
+        Me.TextBoxDonViTinh = New System.Windows.Forms.TextBox()
+        Me.TextBoxLoaiSanPham = New System.Windows.Forms.TextBox()
+        Me.ComboBoxMaLoai = New System.Windows.Forms.ComboBox()
+        Me.ButtonThem = New System.Windows.Forms.Button()
+        Me.ButtonSua = New System.Windows.Forms.Button()
+        Me.ButtonXoa = New System.Windows.Forms.Button()
+        Me.ButtonHuy = New System.Windows.Forms.Button()
+        Me.ButtonQuayLai = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -117,120 +117,120 @@ Partial Class Cap_Nhat_San_Pham
         Me.Label6.TabIndex = 2
         Me.Label6.Text = "Mã Loại:"
         '
-        'TextBox1
+        'TextBoxTenSanPham
         '
-        Me.TextBox1.Location = New System.Drawing.Point(126, 79)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(188, 20)
-        Me.TextBox1.TabIndex = 3
+        Me.TextBoxTenSanPham.Location = New System.Drawing.Point(126, 79)
+        Me.TextBoxTenSanPham.Name = "TextBoxTenSanPham"
+        Me.TextBoxTenSanPham.Size = New System.Drawing.Size(188, 20)
+        Me.TextBoxTenSanPham.TabIndex = 3
         '
-        'TextBox2
+        'TextBoxMaSanPham
         '
-        Me.TextBox2.Location = New System.Drawing.Point(126, 25)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(188, 20)
-        Me.TextBox2.TabIndex = 3
+        Me.TextBoxMaSanPham.Location = New System.Drawing.Point(126, 25)
+        Me.TextBoxMaSanPham.Name = "TextBoxMaSanPham"
+        Me.TextBoxMaSanPham.Size = New System.Drawing.Size(188, 20)
+        Me.TextBoxMaSanPham.TabIndex = 3
         '
-        'TextBox3
+        'TextBoxDonGia
         '
-        Me.TextBox3.Location = New System.Drawing.Point(126, 140)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(188, 20)
-        Me.TextBox3.TabIndex = 3
+        Me.TextBoxDonGia.Location = New System.Drawing.Point(126, 140)
+        Me.TextBoxDonGia.Name = "TextBoxDonGia"
+        Me.TextBoxDonGia.Size = New System.Drawing.Size(188, 20)
+        Me.TextBoxDonGia.TabIndex = 3
         '
-        'TextBox4
+        'TextBoxDonViTinh
         '
-        Me.TextBox4.Location = New System.Drawing.Point(518, 25)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(188, 20)
-        Me.TextBox4.TabIndex = 3
+        Me.TextBoxDonViTinh.Location = New System.Drawing.Point(518, 25)
+        Me.TextBoxDonViTinh.Name = "TextBoxDonViTinh"
+        Me.TextBoxDonViTinh.Size = New System.Drawing.Size(188, 20)
+        Me.TextBoxDonViTinh.TabIndex = 3
         '
-        'TextBox5
+        'TextBoxLoaiSanPham
         '
-        Me.TextBox5.Location = New System.Drawing.Point(518, 79)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(188, 20)
-        Me.TextBox5.TabIndex = 3
+        Me.TextBoxLoaiSanPham.Location = New System.Drawing.Point(518, 79)
+        Me.TextBoxLoaiSanPham.Name = "TextBoxLoaiSanPham"
+        Me.TextBoxLoaiSanPham.Size = New System.Drawing.Size(188, 20)
+        Me.TextBoxLoaiSanPham.TabIndex = 3
         '
-        'ComboBox1
+        'ComboBoxMaLoai
         '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Location = New System.Drawing.Point(519, 136)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
-        Me.ComboBox1.TabIndex = 4
+        Me.ComboBoxMaLoai.FormattingEnabled = True
+        Me.ComboBoxMaLoai.Location = New System.Drawing.Point(519, 136)
+        Me.ComboBoxMaLoai.Name = "ComboBoxMaLoai"
+        Me.ComboBoxMaLoai.Size = New System.Drawing.Size(121, 21)
+        Me.ComboBoxMaLoai.TabIndex = 4
         '
-        'Button1
+        'ButtonThem
         '
-        Me.Button1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.Button1.Location = New System.Drawing.Point(12, 193)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 37)
-        Me.Button1.TabIndex = 5
-        Me.Button1.Text = "Thêm"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.ButtonThem.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.ButtonThem.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.ButtonThem.Location = New System.Drawing.Point(12, 193)
+        Me.ButtonThem.Name = "ButtonThem"
+        Me.ButtonThem.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonThem.TabIndex = 5
+        Me.ButtonThem.Text = "Thêm"
+        Me.ButtonThem.UseVisualStyleBackColor = True
         '
-        'Button2
+        'ButtonSua
         '
-        Me.Button2.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.Button2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.Button2.Location = New System.Drawing.Point(126, 193)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 37)
-        Me.Button2.TabIndex = 6
-        Me.Button2.Text = "Sửa"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.ButtonSua.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.ButtonSua.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.ButtonSua.Location = New System.Drawing.Point(126, 193)
+        Me.ButtonSua.Name = "ButtonSua"
+        Me.ButtonSua.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonSua.TabIndex = 6
+        Me.ButtonSua.Text = "Sửa"
+        Me.ButtonSua.UseVisualStyleBackColor = True
         '
-        'Button3
+        'ButtonXoa
         '
-        Me.Button3.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.Button3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.Button3.Location = New System.Drawing.Point(239, 193)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 37)
-        Me.Button3.TabIndex = 7
-        Me.Button3.Text = "Xóa"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.ButtonXoa.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.ButtonXoa.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.ButtonXoa.Location = New System.Drawing.Point(239, 193)
+        Me.ButtonXoa.Name = "ButtonXoa"
+        Me.ButtonXoa.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonXoa.TabIndex = 7
+        Me.ButtonXoa.Text = "Xóa"
+        Me.ButtonXoa.UseVisualStyleBackColor = True
         '
-        'Button4
+        'ButtonHuy
         '
-        Me.Button4.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.Button4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.Button4.Location = New System.Drawing.Point(350, 193)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(75, 37)
-        Me.Button4.TabIndex = 8
-        Me.Button4.Text = "Hủy"
-        Me.Button4.UseVisualStyleBackColor = True
+        Me.ButtonHuy.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.ButtonHuy.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.ButtonHuy.Location = New System.Drawing.Point(350, 193)
+        Me.ButtonHuy.Name = "ButtonHuy"
+        Me.ButtonHuy.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonHuy.TabIndex = 8
+        Me.ButtonHuy.Text = "Hủy"
+        Me.ButtonHuy.UseVisualStyleBackColor = True
         '
-        'Button5
+        'ButtonQuayLai
         '
-        Me.Button5.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.Button5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.Button5.Location = New System.Drawing.Point(460, 193)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(96, 37)
-        Me.Button5.TabIndex = 9
-        Me.Button5.Text = "Quay Lại"
-        Me.Button5.UseVisualStyleBackColor = True
+        Me.ButtonQuayLai.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.ButtonQuayLai.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.ButtonQuayLai.Location = New System.Drawing.Point(460, 193)
+        Me.ButtonQuayLai.Name = "ButtonQuayLai"
+        Me.ButtonQuayLai.Size = New System.Drawing.Size(96, 37)
+        Me.ButtonQuayLai.TabIndex = 9
+        Me.ButtonQuayLai.Text = "Quay Lại"
+        Me.ButtonQuayLai.UseVisualStyleBackColor = True
         '
         'Cap_Nhat_San_Pham
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(775, 514)
-        Me.Controls.Add(Me.Button5)
-        Me.Controls.Add(Me.Button4)
-        Me.Controls.Add(Me.Button3)
-        Me.Controls.Add(Me.Button2)
-        Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.ComboBox1)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.TextBox5)
-        Me.Controls.Add(Me.TextBox4)
-        Me.Controls.Add(Me.TextBox3)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.ButtonQuayLai)
+        Me.Controls.Add(Me.ButtonHuy)
+        Me.Controls.Add(Me.ButtonXoa)
+        Me.Controls.Add(Me.ButtonSua)
+        Me.Controls.Add(Me.ButtonThem)
+        Me.Controls.Add(Me.ComboBoxMaLoai)
+        Me.Controls.Add(Me.TextBoxMaSanPham)
+        Me.Controls.Add(Me.TextBoxLoaiSanPham)
+        Me.Controls.Add(Me.TextBoxDonViTinh)
+        Me.Controls.Add(Me.TextBoxDonGia)
+        Me.Controls.Add(Me.TextBoxTenSanPham)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
@@ -252,15 +252,15 @@ Partial Class Cap_Nhat_San_Pham
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents Label6 As System.Windows.Forms.Label
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox4 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox5 As System.Windows.Forms.TextBox
-    Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
-    Friend WithEvents Button1 As System.Windows.Forms.Button
-    Friend WithEvents Button2 As System.Windows.Forms.Button
-    Friend WithEvents Button3 As System.Windows.Forms.Button
-    Friend WithEvents Button4 As System.Windows.Forms.Button
-    Friend WithEvents Button5 As System.Windows.Forms.Button
+    Friend WithEvents TextBoxTenSanPham As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxMaSanPham As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxDonGia As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxDonViTinh As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxLoaiSanPham As System.Windows.Forms.TextBox
+    Friend WithEvents ComboBoxMaLoai As System.Windows.Forms.ComboBox
+    Friend WithEvents ButtonThem As System.Windows.Forms.Button
+    Friend WithEvents ButtonSua As System.Windows.Forms.Button
+    Friend WithEvents ButtonXoa As System.Windows.Forms.Button
+    Friend WithEvents ButtonHuy As System.Windows.Forms.Button
+    Friend WithEvents ButtonQuayLai As System.Windows.Forms.Button
 End Class

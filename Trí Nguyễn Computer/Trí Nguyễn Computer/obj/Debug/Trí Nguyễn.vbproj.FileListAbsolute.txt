@@ -16,3 +16,4 @@ C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Compu
 C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Tim_Kiem_Thong_Tin_Khach_Hang.resources
 C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Cap_Nhat_Thong_Tin_Khach_Hang.resources
 C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Dang_Nhap.resources
+C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Thong_Tin_Khach_Hang.resources

@@ -1,26 +1,19 @@
 ﻿Public Class Tim_Kiem_Thong_Tin_Khach_Hang
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles lblTimKiem.Click
+    Private Sub ButtonSearch_Click(sender As Object, e As EventArgs) Handles ButtonSearch.Click
+        If TextBoxSearch.Text = "" Then
+            MessageBox.Show("Chưa Nhập Tên Khách Hàng")
+        Else
+            Dim sql As String =
+             <sql>
+                 select * from Khach_Hang
+                 where HoTen Like N'%{0}%'
+             </sql>
+            sql = String.Format(sql, TextBoxSearch.Text)
+            thucthi(sql, "Search")
+            dgv3.DataSource = ds.Tables("Search")
+        End If
 
     End Sub
 
-    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
-
-    End Sub
-
-    Private Sub frmQlyMacbook_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
-
-    Private Sub PictureBox1_Click(sender As Object, e As EventArgs)
-
-    End Sub
-
-    Private Sub PictureBox2_Click(sender As Object, e As EventArgs)
-
-    End Sub
-
-    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs)
-
-    End Sub
 End Class

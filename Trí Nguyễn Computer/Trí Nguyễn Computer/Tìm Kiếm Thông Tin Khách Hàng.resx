@@ -149,61 +149,61 @@
   <data name="&gt;&gt;lblTimKiem.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="TextBox1.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="TextBoxSearch.Font" type="System.Drawing.Font, System.Drawing">
     <value>Times New Roman, 12pt</value>
   </data>
-  <data name="TextBox1.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="TextBoxSearch.Location" type="System.Drawing.Point, System.Drawing">
     <value>172, 103</value>
   </data>
-  <data name="TextBox1.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="TextBoxSearch.Size" type="System.Drawing.Size, System.Drawing">
     <value>319, 26</value>
   </data>
-  <data name="TextBox1.TabIndex" type="System.Int32, mscorlib">
+  <data name="TextBoxSearch.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;TextBox1.Name" xml:space="preserve">
-    <value>TextBox1</value>
+  <data name="&gt;&gt;TextBoxSearch.Name" xml:space="preserve">
+    <value>TextBoxSearch</value>
   </data>
-  <data name="&gt;&gt;TextBox1.Type" xml:space="preserve">
+  <data name="&gt;&gt;TextBoxSearch.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;TextBox1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;TextBoxSearch.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;TextBox1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;TextBoxSearch.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="btnTimKiem.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="ButtonSearch.Font" type="System.Drawing.Font, System.Drawing">
     <value>Times New Roman, 12pt, style=Bold</value>
   </data>
-  <data name="btnTimKiem.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="ButtonSearch.Location" type="System.Drawing.Point, System.Drawing">
     <value>503, 103</value>
   </data>
-  <data name="btnTimKiem.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="ButtonSearch.Size" type="System.Drawing.Size, System.Drawing">
     <value>97, 26</value>
   </data>
-  <data name="btnTimKiem.TabIndex" type="System.Int32, mscorlib">
+  <data name="ButtonSearch.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="btnTimKiem.Text" xml:space="preserve">
+  <data name="ButtonSearch.Text" xml:space="preserve">
     <value>Search</value>
   </data>
-  <data name="&gt;&gt;btnTimKiem.Name" xml:space="preserve">
-    <value>btnTimKiem</value>
+  <data name="&gt;&gt;ButtonSearch.Name" xml:space="preserve">
+    <value>ButtonSearch</value>
   </data>
-  <data name="&gt;&gt;btnTimKiem.Type" xml:space="preserve">
+  <data name="&gt;&gt;ButtonSearch.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnTimKiem.Parent" xml:space="preserve">
+  <data name="&gt;&gt;ButtonSearch.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;btnTimKiem.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;ButtonSearch.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
   <data name="PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAMYAAAA8CAYAAAA9ksUiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADr8AAA6/ATgFUyQAABuzSURBVHhe7V0HfFRV1n8UgaCun52aTEFX3eK6bvVTQ0sh
+        YQUAAAAJcEhZcwAADr4AAA6+AepCscAAABuzSURBVHhe7V0HfFRV1n8UgaCun52aTEFX3eK6bvVTQ0sh
         DUFZ18UOBlJmhp5k5nN1bbuuuguKBUgRAV1YpQik0ZKZEUVxVxQ7RaUGSCeBkHK/8z/z3uTNy5tCYPf3
         Ld/7/37nl3n3nnvevfedc885977MSP/fcTR94DW1duu8eod5V73DWlNvt1aHojqHta3WbpkjNzdg4NxD
         Tbbp3nq7paFx+lXidKg2y/KALMKAgXML9Q7LC3pKHwlVZ0TfJIsxYODcARS7zm5p0VP6cEQh176adMtF
@@ -1922,31 +1922,31 @@
   <data name="&gt;&gt;dtBangDuLieu.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="Button1.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="ButtonQuayLai.Font" type="System.Drawing.Font, System.Drawing">
     <value>Times New Roman, 12pt, style=Bold</value>
   </data>
-  <data name="Button1.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="ButtonQuayLai.Location" type="System.Drawing.Point, System.Drawing">
     <value>656, 478</value>
   </data>
-  <data name="Button1.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="ButtonQuayLai.Size" type="System.Drawing.Size, System.Drawing">
     <value>95, 33</value>
   </data>
-  <data name="Button1.TabIndex" type="System.Int32, mscorlib">
+  <data name="ButtonQuayLai.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
-  <data name="Button1.Text" xml:space="preserve">
+  <data name="ButtonQuayLai.Text" xml:space="preserve">
     <value>Quay Lại</value>
   </data>
-  <data name="&gt;&gt;Button1.Name" xml:space="preserve">
-    <value>Button1</value>
+  <data name="&gt;&gt;ButtonQuayLai.Name" xml:space="preserve">
+    <value>ButtonQuayLai</value>
   </data>
-  <data name="&gt;&gt;Button1.Type" xml:space="preserve">
+  <data name="&gt;&gt;ButtonQuayLai.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Button1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;ButtonQuayLai.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;Button1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;ButtonQuayLai.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

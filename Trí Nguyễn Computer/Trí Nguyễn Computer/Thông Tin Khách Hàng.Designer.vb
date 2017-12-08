@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Thông_Tin_Khách_Hàng
+Partial Class Thong_Tin_Khach_Hang
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,32 +22,32 @@ Partial Class Thông_Tin_Khách_Hàng
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewThongTinKhachHang = New System.Windows.Forms.DataGridView()
         Me.lblIDKhachHang = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.lblNumberPhone = New System.Windows.Forms.Label()
         Me.lblEmail = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
-        Me.Button4 = New System.Windows.Forms.Button()
-        Me.Button5 = New System.Windows.Forms.Button()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.TextBoxMaKhachHang = New System.Windows.Forms.TextBox()
+        Me.TextBoxHoVaTen = New System.Windows.Forms.TextBox()
+        Me.TextBoxDiaChi = New System.Windows.Forms.TextBox()
+        Me.TextBoxSoDienThoai = New System.Windows.Forms.TextBox()
+        Me.TextBoxEmail = New System.Windows.Forms.TextBox()
+        Me.ButtonPrevious = New System.Windows.Forms.Button()
+        Me.ButtonBackWards = New System.Windows.Forms.Button()
+        Me.ButtonFowards = New System.Windows.Forms.Button()
+        Me.ButtonNext = New System.Windows.Forms.Button()
+        Me.ButtonQuayLai = New System.Windows.Forms.Button()
+        CType(Me.DataGridViewThongTinKhachHang, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
-        'DataGridView1
+        'DataGridViewThongTinKhachHang
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(12, 287)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(796, 228)
-        Me.DataGridView1.TabIndex = 1
+        Me.DataGridViewThongTinKhachHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridViewThongTinKhachHang.Location = New System.Drawing.Point(12, 287)
+        Me.DataGridViewThongTinKhachHang.Name = "DataGridViewThongTinKhachHang"
+        Me.DataGridViewThongTinKhachHang.Size = New System.Drawing.Size(796, 228)
+        Me.DataGridViewThongTinKhachHang.TabIndex = 1
         '
         'lblIDKhachHang
         '
@@ -104,130 +104,130 @@ Partial Class Thông_Tin_Khách_Hàng
         Me.lblEmail.TabIndex = 6
         Me.lblEmail.Text = "Email:"
         '
-        'TextBox1
+        'TextBoxMaKhachHang
         '
-        Me.TextBox1.Location = New System.Drawing.Point(143, 34)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(186, 20)
-        Me.TextBox1.TabIndex = 7
+        Me.TextBoxMaKhachHang.Location = New System.Drawing.Point(143, 34)
+        Me.TextBoxMaKhachHang.Name = "TextBoxMaKhachHang"
+        Me.TextBoxMaKhachHang.Size = New System.Drawing.Size(186, 20)
+        Me.TextBoxMaKhachHang.TabIndex = 7
         '
-        'TextBox2
+        'TextBoxHoVaTen
         '
-        Me.TextBox2.Location = New System.Drawing.Point(143, 97)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(186, 20)
-        Me.TextBox2.TabIndex = 8
+        Me.TextBoxHoVaTen.Location = New System.Drawing.Point(143, 97)
+        Me.TextBoxHoVaTen.Name = "TextBoxHoVaTen"
+        Me.TextBoxHoVaTen.Size = New System.Drawing.Size(186, 20)
+        Me.TextBoxHoVaTen.TabIndex = 8
         '
-        'TextBox3
+        'TextBoxDiaChi
         '
-        Me.TextBox3.Location = New System.Drawing.Point(143, 164)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(186, 20)
-        Me.TextBox3.TabIndex = 9
+        Me.TextBoxDiaChi.Location = New System.Drawing.Point(143, 164)
+        Me.TextBoxDiaChi.Name = "TextBoxDiaChi"
+        Me.TextBoxDiaChi.Size = New System.Drawing.Size(186, 20)
+        Me.TextBoxDiaChi.TabIndex = 9
         '
-        'TextBox4
+        'TextBoxSoDienThoai
         '
-        Me.TextBox4.Location = New System.Drawing.Point(587, 34)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(186, 20)
-        Me.TextBox4.TabIndex = 10
+        Me.TextBoxSoDienThoai.Location = New System.Drawing.Point(587, 34)
+        Me.TextBoxSoDienThoai.Name = "TextBoxSoDienThoai"
+        Me.TextBoxSoDienThoai.Size = New System.Drawing.Size(186, 20)
+        Me.TextBoxSoDienThoai.TabIndex = 10
         '
-        'TextBox5
+        'TextBoxEmail
         '
-        Me.TextBox5.Location = New System.Drawing.Point(587, 97)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(186, 20)
-        Me.TextBox5.TabIndex = 11
+        Me.TextBoxEmail.Location = New System.Drawing.Point(587, 97)
+        Me.TextBoxEmail.Name = "TextBoxEmail"
+        Me.TextBoxEmail.Size = New System.Drawing.Size(186, 20)
+        Me.TextBoxEmail.TabIndex = 11
         '
-        'Button1
+        'ButtonPrevious
         '
-        Me.Button1.Location = New System.Drawing.Point(12, 232)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 37)
-        Me.Button1.TabIndex = 12
-        Me.Button1.Text = "I<"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.ButtonPrevious.Location = New System.Drawing.Point(12, 232)
+        Me.ButtonPrevious.Name = "ButtonPrevious"
+        Me.ButtonPrevious.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonPrevious.TabIndex = 12
+        Me.ButtonPrevious.Text = "I<"
+        Me.ButtonPrevious.UseVisualStyleBackColor = True
         '
-        'Button2
+        'ButtonBackWards
         '
-        Me.Button2.Location = New System.Drawing.Point(122, 232)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 37)
-        Me.Button2.TabIndex = 13
-        Me.Button2.Text = "<<"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.ButtonBackWards.Location = New System.Drawing.Point(122, 232)
+        Me.ButtonBackWards.Name = "ButtonBackWards"
+        Me.ButtonBackWards.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonBackWards.TabIndex = 13
+        Me.ButtonBackWards.Text = "<<"
+        Me.ButtonBackWards.UseVisualStyleBackColor = True
         '
-        'Button3
+        'ButtonFowards
         '
-        Me.Button3.Location = New System.Drawing.Point(235, 232)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 37)
-        Me.Button3.TabIndex = 14
-        Me.Button3.Text = ">>"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.ButtonFowards.Location = New System.Drawing.Point(235, 232)
+        Me.ButtonFowards.Name = "ButtonFowards"
+        Me.ButtonFowards.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonFowards.TabIndex = 14
+        Me.ButtonFowards.Text = ">>"
+        Me.ButtonFowards.UseVisualStyleBackColor = True
         '
-        'Button4
+        'ButtonNext
         '
-        Me.Button4.Location = New System.Drawing.Point(346, 232)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(75, 37)
-        Me.Button4.TabIndex = 15
-        Me.Button4.Text = ">I"
-        Me.Button4.UseVisualStyleBackColor = True
+        Me.ButtonNext.Location = New System.Drawing.Point(346, 232)
+        Me.ButtonNext.Name = "ButtonNext"
+        Me.ButtonNext.Size = New System.Drawing.Size(75, 37)
+        Me.ButtonNext.TabIndex = 15
+        Me.ButtonNext.Text = ">I"
+        Me.ButtonNext.UseVisualStyleBackColor = True
         '
-        'Button5
+        'ButtonQuayLai
         '
-        Me.Button5.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.Button5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.Button5.Location = New System.Drawing.Point(455, 232)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(103, 37)
-        Me.Button5.TabIndex = 16
-        Me.Button5.Text = "Quay Lại"
-        Me.Button5.UseVisualStyleBackColor = True
+        Me.ButtonQuayLai.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.ButtonQuayLai.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.ButtonQuayLai.Location = New System.Drawing.Point(455, 232)
+        Me.ButtonQuayLai.Name = "ButtonQuayLai"
+        Me.ButtonQuayLai.Size = New System.Drawing.Size(103, 37)
+        Me.ButtonQuayLai.TabIndex = 16
+        Me.ButtonQuayLai.Text = "Quay Lại"
+        Me.ButtonQuayLai.UseVisualStyleBackColor = True
         '
-        'Thông_Tin_Khách_Hàng
+        'Thong_Tin_Khach_Hang
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(822, 527)
-        Me.Controls.Add(Me.Button5)
-        Me.Controls.Add(Me.Button4)
-        Me.Controls.Add(Me.Button3)
-        Me.Controls.Add(Me.Button2)
-        Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.TextBox5)
-        Me.Controls.Add(Me.TextBox4)
-        Me.Controls.Add(Me.TextBox3)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.ButtonQuayLai)
+        Me.Controls.Add(Me.ButtonNext)
+        Me.Controls.Add(Me.ButtonFowards)
+        Me.Controls.Add(Me.ButtonBackWards)
+        Me.Controls.Add(Me.ButtonPrevious)
+        Me.Controls.Add(Me.TextBoxEmail)
+        Me.Controls.Add(Me.TextBoxSoDienThoai)
+        Me.Controls.Add(Me.TextBoxDiaChi)
+        Me.Controls.Add(Me.TextBoxHoVaTen)
+        Me.Controls.Add(Me.TextBoxMaKhachHang)
         Me.Controls.Add(Me.lblEmail)
         Me.Controls.Add(Me.lblNumberPhone)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.lblIDKhachHang)
-        Me.Controls.Add(Me.DataGridView1)
-        Me.Name = "Thông_Tin_Khách_Hàng"
+        Me.Controls.Add(Me.DataGridViewThongTinKhachHang)
+        Me.Name = "Thong_Tin_Khach_Hang"
         Me.Text = "Thông Tin Khách Hàng"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DataGridViewThongTinKhachHang, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
+    Friend WithEvents DataGridViewThongTinKhachHang As System.Windows.Forms.DataGridView
     Friend WithEvents lblIDKhachHang As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents lblNumberPhone As System.Windows.Forms.Label
     Friend WithEvents lblEmail As System.Windows.Forms.Label
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox4 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox5 As System.Windows.Forms.TextBox
-    Friend WithEvents Button1 As System.Windows.Forms.Button
-    Friend WithEvents Button2 As System.Windows.Forms.Button
-    Friend WithEvents Button3 As System.Windows.Forms.Button
-    Friend WithEvents Button4 As System.Windows.Forms.Button
-    Friend WithEvents Button5 As System.Windows.Forms.Button
+    Friend WithEvents TextBoxMaKhachHang As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxHoVaTen As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxDiaChi As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxSoDienThoai As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxEmail As System.Windows.Forms.TextBox
+    Friend WithEvents ButtonPrevious As System.Windows.Forms.Button
+    Friend WithEvents ButtonBackWards As System.Windows.Forms.Button
+    Friend WithEvents ButtonFowards As System.Windows.Forms.Button
+    Friend WithEvents ButtonNext As System.Windows.Forms.Button
+    Friend WithEvents ButtonQuayLai As System.Windows.Forms.Button
 End Class
