@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Trí Nguyễn", "Trí Nguyễn Computer\Trí Nguyễn.vbproj", "{A0C760EE-69A0-4C62-AB8E-7D3BE501C841}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Trí Nguyễn Computer", "Trí Nguyễn Computer\Trí Nguyễn Computer.vbproj", "{A0C760EE-69A0-4C62-AB8E-7D3BE501C841}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
