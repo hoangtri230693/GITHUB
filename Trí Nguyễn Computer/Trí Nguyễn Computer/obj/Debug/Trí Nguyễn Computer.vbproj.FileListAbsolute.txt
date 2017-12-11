@@ -9,9 +9,11 @@ C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Compu
 C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.xml
 C:\Users\Administrator\Desktop\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.pdb
 E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe.config
-E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.exe
-E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.xml
-E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.pdb
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe.manifest
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.application
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.pdb
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.xml
 E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Chi_Tiet_Hoa_Don.resources
 E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Cap_Nhat_San_Pham.resources
 E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Home.resources
@@ -22,6 +24,8 @@ E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Comp
 E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Cap_Nhat_Khach_Hang.resources
 E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí_Nguyễn_Computer.Dang_Nhap.resources
 E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.vbproj.GenerateResource.Cache
-E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.exe
-E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.pdb
-E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\bin\Debug\Trí Nguyễn Computer.xml
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.exe.manifest
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.application
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.exe
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.xml
+E:\FPT POLYTECHNIC\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\GITHUB\Trí Nguyễn Computer\Trí Nguyễn Computer\obj\Debug\Trí Nguyễn Computer.pdb
