@@ -76,7 +76,6 @@
     <Compile Include="Chi Tiết Hóa Đơn.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="clsDataBaseAccess.vb" />
     <Compile Include="Cập Nhật Sản Phẩm.Designer.vb">
       <DependentUpon>Cập Nhật Sản Phẩm.vb</DependentUpon>
     </Compile>
@@ -87,12 +86,6 @@
       <DependentUpon>Home.vb</DependentUpon>
     </Compile>
     <Compile Include="Home.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Thông Tin Khách Hàng.Designer.vb">
-      <DependentUpon>Thông Tin Khách Hàng.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Thông Tin Khách Hàng.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Thông Tin Sản Phẩm.Designer.vb">
@@ -107,11 +100,11 @@
     <Compile Include="Thông Tin Ứng Dụng.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Tìm Kiếm Thông Tin Khách Hàng.vb">
+    <Compile Include="Tìm Kiếm Khách Hàng.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Tìm Kiếm Thông Tin Khách Hàng.Designer.vb">
-      <DependentUpon>Tìm Kiếm Thông Tin Khách Hàng.vb</DependentUpon>
+    <Compile Include="Tìm Kiếm Khách Hàng.Designer.vb">
+      <DependentUpon>Tìm Kiếm Khách Hàng.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -129,10 +122,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Cập Nhật Thông Tin Khách Hàng.Designer.vb">
-      <DependentUpon>Cập Nhật Thông Tin Khách Hàng.vb</DependentUpon>
+    <Compile Include="Cập Nhật Khách Hàng.Designer.vb">
+      <DependentUpon>Cập Nhật Khách Hàng.vb</DependentUpon>
     </Compile>
-    <Compile Include="Cập Nhật Thông Tin Khách Hàng.vb">
+    <Compile Include="Cập Nhật Khách Hàng.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Đăng Nhập.Designer.vb">
@@ -152,17 +145,14 @@
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Thông Tin Khách Hàng.resx">
-      <DependentUpon>Thông Tin Khách Hàng.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Thông Tin Sản Phẩm.resx">
       <DependentUpon>Thông Tin Sản Phẩm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Thông Tin Ứng Dụng.resx">
       <DependentUpon>Thông Tin Ứng Dụng.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Tìm Kiếm Thông Tin Khách Hàng.resx">
-      <DependentUpon>Tìm Kiếm Thông Tin Khách Hàng.vb</DependentUpon>
+    <EmbeddedResource Include="Tìm Kiếm Khách Hàng.resx">
+      <DependentUpon>Tìm Kiếm Khách Hàng.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -170,8 +160,8 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Cập Nhật Thông Tin Khách Hàng.resx">
-      <DependentUpon>Cập Nhật Thông Tin Khách Hàng.vb</DependentUpon>
+    <EmbeddedResource Include="Cập Nhật Khách Hàng.resx">
+      <DependentUpon>Cập Nhật Khách Hàng.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Đăng Nhập.resx">
       <DependentUpon>Đăng Nhập.vb</DependentUpon>
@@ -194,6 +184,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\315_47_20_000000.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CSDL\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

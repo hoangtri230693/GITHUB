@@ -1,4 +1,4 @@
-﻿Public Class Cap_Nhat_Thong_Tin_Khach_Hang
+﻿Public Class Cap_Nhat_Khach_Hang
 
     Private Sub lblPrice_Click(sender As Object, e As EventArgs)
 

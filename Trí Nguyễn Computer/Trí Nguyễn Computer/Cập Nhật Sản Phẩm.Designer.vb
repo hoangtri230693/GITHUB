@@ -22,7 +22,6 @@ Partial Class Cap_Nhat_San_Pham
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
@@ -40,16 +39,9 @@ Partial Class Cap_Nhat_San_Pham
         Me.ButtonXoa = New System.Windows.Forms.Button()
         Me.ButtonHuy = New System.Windows.Forms.Button()
         Me.ButtonQuayLai = New System.Windows.Forms.Button()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
-        '
-        'DataGridView1
-        '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(12, 249)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(751, 253)
-        Me.DataGridView1.TabIndex = 0
         '
         'Label1
         '
@@ -215,6 +207,14 @@ Partial Class Cap_Nhat_San_Pham
         Me.ButtonQuayLai.Text = "Quay Lại"
         Me.ButtonQuayLai.UseVisualStyleBackColor = True
         '
+        'DataGridView1
+        '
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Location = New System.Drawing.Point(12, 249)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.Size = New System.Drawing.Size(751, 253)
+        Me.DataGridView1.TabIndex = 0
+        '
         'Cap_Nhat_San_Pham
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -245,7 +245,6 @@ Partial Class Cap_Nhat_San_Pham
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
@@ -263,4 +262,5 @@ Partial Class Cap_Nhat_San_Pham
     Friend WithEvents ButtonXoa As System.Windows.Forms.Button
     Friend WithEvents ButtonHuy As System.Windows.Forms.Button
     Friend WithEvents ButtonQuayLai As System.Windows.Forms.Button
+    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
 End Class

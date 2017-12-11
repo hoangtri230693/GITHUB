@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Cap_Nhat_Thong_Tin_Khach_Hang
+Partial Class Cap_Nhat_Khach_Hang
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -194,7 +194,7 @@ Partial Class Cap_Nhat_Thong_Tin_Khach_Hang
         Me.Button5.Text = "Quay Lại"
         Me.Button5.UseVisualStyleBackColor = True
         '
-        'Cap_Nhat_Thong_Tin_Khach_Hang
+        'Cap_Nhat_Khach_Hang
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -215,8 +215,8 @@ Partial Class Cap_Nhat_Thong_Tin_Khach_Hang
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.lblIDKhachHang)
         Me.Controls.Add(Me.DataGridView1)
-        Me.Name = "Cap_Nhat_Thong_Tin_Khach_Hang"
-        Me.Text = "Cập Nhật Thông Tin Khách Hàng"
+        Me.Name = "Cap_Nhat_Khach_Hang"
+        Me.Text = "Cập Nhật Khách Hàng"
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()

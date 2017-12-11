@@ -30,7 +30,6 @@ Partial Class Home
         Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.KhachHangToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ThongTinKhachHangToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TimKiemKhachHangToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.CapNhatKhachHangToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SanPhamToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -107,30 +106,23 @@ Partial Class Home
         '
         'KhachHangToolStripMenuItem
         '
-        Me.KhachHangToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ThongTinKhachHangToolStripMenuItem, Me.TimKiemKhachHangToolStripMenuItem, Me.CapNhatKhachHangToolStripMenuItem})
+        Me.KhachHangToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TimKiemKhachHangToolStripMenuItem, Me.CapNhatKhachHangToolStripMenuItem})
         Me.KhachHangToolStripMenuItem.Name = "KhachHangToolStripMenuItem"
         Me.KhachHangToolStripMenuItem.Size = New System.Drawing.Size(84, 20)
         Me.KhachHangToolStripMenuItem.Text = "Khách Hàng"
-        '
-        'ThongTinKhachHangToolStripMenuItem
-        '
-        Me.ThongTinKhachHangToolStripMenuItem.Image = CType(resources.GetObject("ThongTinKhachHangToolStripMenuItem.Image"), System.Drawing.Image)
-        Me.ThongTinKhachHangToolStripMenuItem.Name = "ThongTinKhachHangToolStripMenuItem"
-        Me.ThongTinKhachHangToolStripMenuItem.Size = New System.Drawing.Size(197, 22)
-        Me.ThongTinKhachHangToolStripMenuItem.Text = "Thông Tin Khách Hàng"
         '
         'TimKiemKhachHangToolStripMenuItem
         '
         Me.TimKiemKhachHangToolStripMenuItem.Image = CType(resources.GetObject("TimKiemKhachHangToolStripMenuItem.Image"), System.Drawing.Image)
         Me.TimKiemKhachHangToolStripMenuItem.Name = "TimKiemKhachHangToolStripMenuItem"
-        Me.TimKiemKhachHangToolStripMenuItem.Size = New System.Drawing.Size(197, 22)
+        Me.TimKiemKhachHangToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
         Me.TimKiemKhachHangToolStripMenuItem.Text = "Tìm Kiếm Khách Hàng"
         '
         'CapNhatKhachHangToolStripMenuItem
         '
         Me.CapNhatKhachHangToolStripMenuItem.Image = CType(resources.GetObject("CapNhatKhachHangToolStripMenuItem.Image"), System.Drawing.Image)
         Me.CapNhatKhachHangToolStripMenuItem.Name = "CapNhatKhachHangToolStripMenuItem"
-        Me.CapNhatKhachHangToolStripMenuItem.Size = New System.Drawing.Size(197, 22)
+        Me.CapNhatKhachHangToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
         Me.CapNhatKhachHangToolStripMenuItem.Text = "Cập Nhật Khách Hàng"
         '
         'SanPhamToolStripMenuItem
@@ -228,7 +220,6 @@ Partial Class Home
     Friend WithEvents ToolStripStatusLabel1 As System.Windows.Forms.ToolStripStatusLabel
     Friend WithEvents MenuStrip1 As System.Windows.Forms.MenuStrip
     Friend WithEvents KhachHangToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents ThongTinKhachHangToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TimKiemKhachHangToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents CapNhatKhachHangToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents SanPhamToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
